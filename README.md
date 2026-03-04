@@ -10,14 +10,14 @@ This project showcases my skills, projects, and contact information in a clean a
 
 
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 **View Portfolio Here:**  
 https://pranavshadow.github.io/My-Portfolio/
 
 
 
-## 📸 Preview
+## Preview
 
 Landing Page
 
